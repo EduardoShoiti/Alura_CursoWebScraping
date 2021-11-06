@@ -1,0 +1,1 @@
+# Projeto criado no curos de Web Scraping da Alura
